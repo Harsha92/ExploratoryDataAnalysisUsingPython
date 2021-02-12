@@ -1,3 +1,16 @@
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+### Introduction
+### Python and Data Science
+### Study of the problem
+### Preparing the dataset
+
+### Conclusion
+
 [![Movies](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/movies_image_git.jpeg "Movies")](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbuilding-a-movie-genre-classifier-using-a-dataset-created-using-google-images-4752f75a1d79&psig=AOvVaw2xqS3d6PgXt8Di_GRpkIhw&ust=1613185577663000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMifpuKu4-4CFQAAAAAdAAAAABAn "Movies")
 
 # Introduction

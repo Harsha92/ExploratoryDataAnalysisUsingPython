@@ -13,4 +13,4 @@ To do Data Science with Python, I use Python with the following software librari
 - Seaborn: it complements Matplotlib by providing attractive statistical graphics.
 
 # Study of the problem
-Objective: Analyze the data available on the IMDb website for movies released in the cinema between 2006 and 2016.
+Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.

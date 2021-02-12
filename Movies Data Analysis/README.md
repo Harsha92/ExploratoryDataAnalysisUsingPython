@@ -14,3 +14,7 @@ To do Data Science with Python, I use Python with the following software librari
 
 # Study of the problem
 Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
+
+# Preparing the dataset
+
+Here is the [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which are released between 2006 and 2016.

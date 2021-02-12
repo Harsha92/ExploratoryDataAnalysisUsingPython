@@ -20,9 +20,9 @@ To do Data Science with Python, I use Python with the following software librari
 
 The problem was divided into several steps:
 
-1. **Data Collection:** Data was collected from the MovieLens website and through a script that queried for data from various TMDB Endpoints.
+1. **Data Collection:** Data was collected in a csv file from IMDB website. Here is the  [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which we used for analysis.
 2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
-3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the various datasets. The history, facts and trivia behind movies were narrated through data.
+3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. T
 
 # Preparing the dataset
 

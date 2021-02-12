@@ -11,3 +11,6 @@ To do Data Science with Python, I use Python with the following software librari
 - Matplotlib: it allows to trace and visualize data in the form of graphs.
 - Pandas: it allows to manipulate and analyze data (dataframes).
 - Seaborn: it complements Matplotlib by providing attractive statistical graphics.
+
+# Study of the problem
+Objective: Analyze the data available on the IMDb website for movies released in the cinema between 2006 and 2016.

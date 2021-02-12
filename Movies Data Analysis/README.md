@@ -8,7 +8,7 @@ The Internet Movie Database (IMDb) is a website that serves as an online databas
 # Study of the problem
 Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
-# Python and Data Science
+# Python librsries
 
 To do Data Science with Python, I use Python with the following software libraries:
 - **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).

@@ -18,3 +18,17 @@ Objective: Cinemania, an American Box Office where tickets are sold to the publi
 # Preparing the dataset
 
 Here is the [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which are released between 2006 and 2016.
+
+After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
+Here are the data I want to keep:
+- Movie title
+- Genre of the movie
+- Duration of the movie (in minutes)
+- Release year of the movie
+- Number of public votes
+- Public rating (score out of 10)
+- Critics rating (score out of 100)
+- Movie Gross (millions of dollars)
+- Director of the movie
+- Main actors in the movie
+- Rank of the movie

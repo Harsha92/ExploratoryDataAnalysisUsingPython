@@ -41,3 +41,12 @@ Here are the data I want to keep:
 - Director of the movie
 - Main actors in the movie
 - Rank of the movie
+
+# Key Insights from Data
+Below are some useful observations from movies data
+- [No.of movies released in each year](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Year.png "No.of movies released in each year")
+- [No.of movies released in each genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Genre.png "No.of movies released in each genre")
+- [Revenue of movies as per genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Revenue_Genre.png "Revenue of movies as per genre")
+- [Top Directors who generated most revenue](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/top_Directors.png "Top Directors who generated most revenue")
+- [Top 10 actor and director combinations](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Actor_Director.png "Top 10 actor and director combinations")
+

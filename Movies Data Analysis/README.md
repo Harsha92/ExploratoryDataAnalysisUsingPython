@@ -5,6 +5,9 @@
 
 The Internet Movie Database (IMDb) is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more. Faced with the large amount of data available on this site, I thought that it would be interesting to analyze the movies data on the IMDb website between the year 2006 and the year 2016.
 
+# Study of the problem
+Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
+
 # Python and Data Science
 
 To do Data Science with Python, I use Python with the following software libraries:
@@ -12,9 +15,6 @@ To do Data Science with Python, I use Python with the following software librari
 - Matplotlib: it allows to trace and visualize data in the form of graphs.
 - Pandas: it allows to manipulate and analyze data (dataframes).
 - Seaborn: it complements Matplotlib by providing attractive statistical graphics.
-
-# Study of the problem
-Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
 # Preparing the dataset
 

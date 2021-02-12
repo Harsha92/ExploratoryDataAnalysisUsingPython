@@ -11,10 +11,10 @@ Objective: Cinemania, an American Box Office where tickets are sold to the publi
 # Python and Data Science
 
 To do Data Science with Python, I use Python with the following software libraries:
-- Numpy: it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
-- Matplotlib: it allows to trace and visualize data in the form of graphs.
-- Pandas: it allows to manipulate and analyze data (dataframes).
-- Seaborn: it complements Matplotlib by providing attractive statistical graphics.
+- **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
+- **Matplotlib:** it allows to trace and visualize data in the form of graphs.
+- **Pandas:** it allows to manipulate and analyze data (dataframes).
+- **Seaborn:** it complements Matplotlib by providing attractive statistical graphics.
 
 # Approach 
 
@@ -22,7 +22,7 @@ The problem was divided into several steps:
 
 1. **Data Collection:** Data was collected in a csv file from IMDB website. Here is the  [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which we used for analysis.
 2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
-3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. T
+3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
 
 # Preparing the dataset
 

@@ -50,12 +50,15 @@ Below are some useful observations from movies data
 - [Top Directors who generated most revenue](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/top_Directors.png "Top Directors who generated most revenue")
 - [Top 10 actor and director combinations](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Actor_Director.png "Top 10 actor and director combinations")
 
-- Director J.J. Abrams has made the highest revenue in Action Genre of  1.56 billion dollars followed by Joss Whedon with an revenue of 1.08 billion dollars. 
+- Director J.J. Abrams has made the highest revenue in Action Genre of 1.56 billion dollars followed by Joss Whedon with an revenue of 1.08 billion dollars. 
 - Director David Yates has made the highest revenue in Adventure Genre of over 1.2 billion dollars with main actors as Daniel Radcliffe and Emma Watson. 
 - Director Pete Docter has made the highest revenue of  649.43 million dollars  in animation genre.
 - There are 55 Action Genre movies in top 100 movies which made the revenue of 18.225 billion dollars and with average audience rating of 7.2 and Metascore of 65
 - There are 22 Animation Genre movies in top 100 movies which made the revenue of 6.429 billion dollars and with average audience rating of 7.6 and Metascore of 75
 - Action genre has generated the highest revenue of 34513.48 million dollars followed by Animation genre with revenue of 9083.46 million dollars.
+- Boyhood is the movie which has highest Critic Rating of 100/100 directed by Richard Linklater released in 2014
+- The Dark Knight is the movie which has highest Audience Rating of 9/10 directed by Christopher Nolan released in 2008
+
 
 
 # What I have learned?

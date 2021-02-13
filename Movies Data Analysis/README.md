@@ -4,7 +4,12 @@
 ---
 
 1. [**Introduction**](#Introduction)<br>
-2. [**Problem Statement**](#Section2)<br>
+2. [**Problem Statement**](#Problem Statement)<br>
+3. [**Python libraries**](#Python libraries)<br>
+4. [**Solution Approach**](#Solution Approach)<br>
+5. [**Preparing the dataset**](#Preparing the dataset)<br>
+6. [**Key Insights**](#Key Insights)<br>
+7. [**What I have learned?**](#What I have learned?)<br>
 
 ---
 
@@ -14,7 +19,7 @@
 
 The Internet Movie Database (IMDb) is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more. Faced with the large amount of data available on this site, I thought that it would be interesting to analyze the movies data on the IMDb website between the year 2006 and the year 2016.
 
-# Study of the problem
+# Problem Statement
 Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
 # Python libraries
@@ -25,7 +30,7 @@ To do Data Science with Python, I use Python with the following software librari
 - **Pandas:** it allows to manipulate and analyze data (dataframes).
 - **Seaborn:** it complements Matplotlib by providing attractive statistical graphics.
 
-# Approach 
+# Solution Approach 
 
 The problem was divided into several steps:
 
@@ -51,7 +56,7 @@ Here are the data I want to keep:
 - Main actors in the movie
 - Rank of the movie
 
-# Key Insights from Data
+# Key Insights 
 Below are some useful observations from movies data
 - [No.of movies released in each year](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Year.png "No.of movies released in each year")
 - [No.of movies released in each genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Genre.png "No.of movies released in each genre")

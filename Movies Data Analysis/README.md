@@ -18,20 +18,20 @@
 ---
 <a name = Section1></a>
 # **Introduction**
----
+
 The Internet Movie Database (IMDb) is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more. Faced with the large amount of data available on this site, I thought that it would be interesting to analyze the movies data on the IMDb website between the year 2006 and the year 2016.
 
 
 ---
 <a name = Section2></a>
 # **Problem Statement**
----
+
 Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
 ---
 <a name = Section3></a>
 # **Python libraries**
----
+
 
 To do Data Science with Python, I use Python with the following software libraries:
 - **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
@@ -42,7 +42,7 @@ To do Data Science with Python, I use Python with the following software librari
 ---
 <a name = Section4></a>
 # **Solution Approach** 
----
+
 
 The problem was divided into several steps:
 
@@ -53,7 +53,7 @@ The problem was divided into several steps:
 ---
 <a name = Section5></a>
 # **Preparing the dataset**
----
+
 
 Here is the [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which are released between 2006 and 2016.
 
@@ -74,7 +74,7 @@ Here are the data I want to keep:
 ---
 <a name = Section6></a>
 # **Key Insights** 
---- 
+
 
 Below are some useful observations from movies data
 - [No.of movies released in each year](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Year.png "No.of movies released in each year")
@@ -96,7 +96,6 @@ Below are some useful observations from movies data
 ---
 <a name = Section7></a>
 # **What I have learned?**
----
 
 After completing the project, I got goo understanding of below concepts:
 

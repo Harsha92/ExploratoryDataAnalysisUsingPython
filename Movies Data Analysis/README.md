@@ -3,27 +3,35 @@
 # **Table of Contents**
 ---
 
-1. [**Introduction**](#Introduction)<br>
-2. [**Problem Statement**](#Problem Statement)<br>
-3. [**Python libraries**](#Python libraries)<br>
-4. [**Solution Approach**](#Solution Approach)<br>
-5. [**Preparing the dataset**](#Preparing the dataset)<br>
-6. [**Key Insights**](#Key Insights)<br>
-7. [**What I have learned?**](#What I have learned?)<br>
+1. [**Introduction**](#Section1)<br>
+2. [**Problem Statement**](#Section2)<br>
+3. [**Python libraries**](#Section3)<br>
+4. [**Solution Approach**](#Section4)<br>
+5. [**Preparing the dataset**](#Section5)<br>
+6. [**Key Insights**](#Section6)<br>
+7. [**What I have learned?**](#Section7)<br>
 
 ---
 
 [![Movies](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/movies_image_git.jpeg "Movies")](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fbuilding-a-movie-genre-classifier-using-a-dataset-created-using-google-images-4752f75a1d79&psig=AOvVaw2xqS3d6PgXt8Di_GRpkIhw&ust=1613185577663000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMifpuKu4-4CFQAAAAAdAAAAABAn "Movies")
 
-# Introduction
-
+---
+<a name = Section1></a>
+# **Introduction**
+---
 The Internet Movie Database (IMDb) is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more. Faced with the large amount of data available on this site, I thought that it would be interesting to analyze the movies data on the IMDb website between the year 2006 and the year 2016.
 
 
-# Problem Statement
+---
+<a name = Section2></a>
+# **Problem Statement**
+---
 Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
-# Python libraries
+---
+<a name = Section3></a>
+# **Python libraries**
+---
 
 To do Data Science with Python, I use Python with the following software libraries:
 - **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
@@ -31,7 +39,10 @@ To do Data Science with Python, I use Python with the following software librari
 - **Pandas:** it allows to manipulate and analyze data (dataframes).
 - **Seaborn:** it complements Matplotlib by providing attractive statistical graphics.
 
-# Solution Approach 
+---
+<a name = Section4></a>
+# **Solution Approach** 
+---
 
 The problem was divided into several steps:
 
@@ -39,7 +50,10 @@ The problem was divided into several steps:
 2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
 3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
 
-# Preparing the dataset
+---
+<a name = Section5></a>
+# **Preparing the dataset**
+---
 
 Here is the [movies data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/1000%20movies%20data.csv "movies data") which are released between 2006 and 2016.
 
@@ -57,7 +71,11 @@ Here are the data I want to keep:
 - Main actors in the movie
 - Rank of the movie
 
-# Key Insights 
+---
+<a name = Section6></a>
+# **Key Insights** 
+--- 
+
 Below are some useful observations from movies data
 - [No.of movies released in each year](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Year.png "No.of movies released in each year")
 - [No.of movies released in each genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Genre.png "No.of movies released in each genre")
@@ -75,8 +93,11 @@ Below are some useful observations from movies data
 - The Dark Knight is the movie which has highest Audience Rating of 9/10 directed by Christopher Nolan released in 2008
 
 
+---
+<a name = Section7></a>
+# **What I have learned?**
+---
 
-# What I have learned?
 After completing the project, I got goo understanding of below concepts:
 
 - Understood all the steps involved in a typical data analysis process

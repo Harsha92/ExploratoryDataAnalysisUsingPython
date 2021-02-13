@@ -64,10 +64,10 @@ Below are some useful observations from movies data
 # What I have learned?
 After completing the project, I got goo understanding of below concepts:
 
-- Know all the steps involved in a typical data analysis process
+- Understood all the steps involved in a typical data analysis process
 - Be comfortable posing questions that can be answered with a given dataset and then answering those questions
-- Know how to investigate problems in a dataset and wrangle the data into a format that can be used
+- Understood how to investigate problems in a dataset and wrangle the data into a format that can be used
 - Have practice communicating the results of your analysis
 - Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
-- Be familiar with pandas' Series and DataFrame objects, which let me access the data more conveniently
-- Know how to use Matplotlib, Seaborn to produce plots showing my findings
+- Got familiar with pandas' Series and DataFrame objects, which let me access the data more conveniently
+- Understood how to use Matplotlib, Seaborn to produce plots showing my findings

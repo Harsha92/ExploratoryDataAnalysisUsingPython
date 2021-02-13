@@ -3,7 +3,7 @@
 # **Table of Contents**
 ---
 
-1. [**Introduction**](#Section1)<br>
+1. [**Introduction**](#Introduction)<br>
 2. [**Problem Statement**](#Section2)<br>
 
 ---

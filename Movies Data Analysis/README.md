@@ -26,7 +26,7 @@ The Internet Movie Database (IMDb) is a website that serves as an online databas
 <a name = Section2></a>
 # **Problem Statement**
 
-Objective: Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
+Cinemania, an American Box Office where tickets are sold to the public for movies is planning to add new services and enhance the quality of existing services. To tackle this problem we are performing the analysis of IMDB data from 2006 to 2016.
 
 ---
 <a name = Section3></a>

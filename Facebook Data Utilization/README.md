@@ -4,6 +4,8 @@
 <a name = Section1></a>
 # **Introduction**
 Facebook is an American online social media and social networking service based in Menlo Park, California. It was founded by [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg"), along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.
+
+<a name = Section1.1></a>
 ## **Reception**
 Facebook's rapid growth began as soon as it became available and continued through 2018.
 Facebook passed 100 million registered users in 2008, and 500 million in July 2010. According to the company's data at the July 2010 announcement, half of the site's membership used Facebook daily, for an average of 34 minutes, while 150 million users accessed the site by mobile.

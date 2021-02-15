@@ -67,7 +67,7 @@ The problem was divided into several steps:
 
 ---
 <a name = Section5></a>
-# **4. Data Acquisition & Description**
+# **Data Acquisition & Description**
 - After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
 
 Here are the data I want to keep:
@@ -87,3 +87,5 @@ Here are the data I want to keep:
 |11| www_likes              | Number of posts liked by the user through web.|
 |12| www_likes_received     | Number of likes received by user  through web.| 
 | 13  | age_group  | Derived from age column for analysis  |
+
+---

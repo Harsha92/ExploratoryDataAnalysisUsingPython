@@ -68,7 +68,7 @@ The problem was divided into several steps:
 ---
 <a name = Section5></a>
 # **Data Acquisition & Description**
-- After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
+After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
 
 Here are the data I want to keep:
 

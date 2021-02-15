@@ -108,6 +108,6 @@ Here are the data I want to keep:
 - Female users has received 72% of the overall likes from both mobile app and website
 - 18 years female users has highest number of friends followed by 19 years female users.
 - 18 years male users has initiated more friend requests followed by 19 years male users.
-- Teenagers are more active interms of initiating and accepting friend requests.
+- Teenagers are more active on facebook interms of nitiating, accepting friend requests and sending, receiving likes.
 
 

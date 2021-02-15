@@ -1,6 +1,6 @@
 ---
 # **Table of Contents**
----
+
 
 1. [**Introduction**](#Section1)<br>
  * 1.1 [**Reception**](#Section1.1)<br>
@@ -12,7 +12,7 @@
 4. [**Solution Approach**](#Section4)<br>
 5. [**Data Acquisition & Description**](#Section5)<br>
 
-
+---
 [![Facebook](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")
 
 ---

@@ -3,10 +3,10 @@
 ---
 
 1. [**Introduction**](#Section1)<br>
-1.1 [**Reception**](#Section1.1)<br>
-1.2 [**Impact**](#Section1.2)<br>
-1.2.1 [**Scope**](#Section1.2.1)<br>
-1.2.2 [**Economy**](#Section1.2.2)<br>
+  1.1 [**Reception**](#Section1.1)<br>
+  1.2 [**Impact**](#Section1.2)<br>
+    1.2.1 [**Scope**](#Section1.2.1)<br>
+    1.2.2 [**Economy**](#Section1.2.2)<br>
 2. [**Problem Statement**](#Section2)<br>
 
 

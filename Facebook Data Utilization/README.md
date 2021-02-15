@@ -90,3 +90,10 @@ Here are the data I want to keep:
 | 13  | age_group  | Derived from age column for analysis  |
 
 ---
+<a name = Section6></a>
+# **Trends in Data**
+- [User distribution as per age group](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/Users_age_group.png "User distribution as per age group")
+- [Total no.of friends and friendships initiated as per age group](https://github.com/Harsha92/ExploratoryDataAnalysisUsingPython/blob/main/Facebook%20Data%20Utilization/images/Vissualizations/Friends_total_initiated_age_group.png "Total no.of friends and friendships initiated as per age group")
+- [Top 10 friend count and friendship initiated as per age and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/Top%2010%20Friends%20and%20initiated%20age%20and%20gender.png "Top 10 friend count and friendship initiated as per age and gender")
+- [Top 10 total likes sent and received as per age and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/top%2010%20likes%20age%20and%20gender.png "Top 10 total likes sent and received as per age and gender")
+- [Top 10 likes sent and received as per age group and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/top%2010%20likes%20age%20group.png "Top 10 likes sent and received as per age group and gender")

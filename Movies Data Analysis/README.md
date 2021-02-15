@@ -1,5 +1,4 @@
 
----
 # **Table of Contents**
 ---
 
@@ -8,8 +7,9 @@
 3. [**Python libraries**](#Section3)<br>
 4. [**Solution Approach**](#Section4)<br>
 5. [**Preparing the dataset**](#Section5)<br>
-6. [**Key Insights**](#Section6)<br>
-7. [**What I have learned?**](#Section7)<br>
+6. [**Trends in Data**](#Section6)
+7. [**Key Insights**](#Section7)<br>
+8. [**What I have learned?**](#Section8)<br>
 
 ---
 
@@ -73,15 +73,18 @@ Here are the data I want to keep:
 
 ---
 <a name = Section6></a>
-# **Key Insights** 
 
-
+# **Trends in Data**
 Below are some useful observations from movies data
 - [No.of movies released in each year](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Year.png "No.of movies released in each year")
 - [No.of movies released in each genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Movies_Genre.png "No.of movies released in each genre")
 - [Revenue of movies as per genre](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Revenue_Genre.png "Revenue of movies as per genre")
 - [Top Directors who generated most revenue](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/top_Directors.png "Top Directors who generated most revenue")
 - [Top 10 actor and director combinations](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Movies%20Data%20Analysis/images/Visualizations/Actor_Director.png "Top 10 actor and director combinations")
+
+---
+<a name = Section7></a>
+# **Key Insights** 
 
 - Director J.J. Abrams has made the highest revenue in Action Genre of 1.56 billion dollars followed by Joss Whedon with an revenue of 1.08 billion dollars. 
 - Director David Yates has made the highest revenue in Adventure Genre of over 1.2 billion dollars with main actors as Daniel Radcliffe and Emma Watson. 
@@ -94,7 +97,7 @@ Below are some useful observations from movies data
 
 
 ---
-<a name = Section7></a>
+<a name = Section8></a>
 # **What I have learned?**
 
 After completing the project, I got goo understanding of below concepts:

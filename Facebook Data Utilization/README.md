@@ -28,11 +28,11 @@ Facebook popularity as Active users of Facebook increased from just a million in
 <a name = Section1.2></a>
 ## Impact
 
-<a name = Section1.2.1></a>
+  <a name = Section1.2.1></a>
 ### Scope
 A commentator in The Washington Post noted that Facebook constitutes a "massive depository of information that documents both our reactions to events and our evolving customs with a scope and immediacy of which earlier historians could only dream". Especially for anthropologists, social researchers, and social historians—and subject to proper preservation and curation—the website "will preserve images of our lives that are vastly crisper and more nuanced than any ancestry record in existence".
 
-<a name = Section1.2.2></a>
+  <a name = Section1.2.2></a>
 ### Economy
 Economists have noted that Facebook offers many non-rivalrous services that benefit as many users as are interested without forcing users to compete with each other. By contrast, most goods are available to a limited number of users. E.g., if one user buys a phone, no other user can buy that phone. Three areas add the most economic impact: platform competition, the market place and user behavior data.
 

@@ -10,6 +10,7 @@
 2. [**Problem Statement**](#Section2)<br>
 3. [**Python libraries**](#Section3)<br>
 4. [**Solution Approach**](#Section4)<br>
+5. [**Preparing the dataset**](#Section5)<br>
 
 
 [![Facebook](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")
@@ -71,3 +72,31 @@ The problem was divided into several steps:
 3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
 
 ---
+
+|Id   |Feature   | Description  |
+| ------------ | ------------ | ------------ |
+---
+<a name = Section4></a>
+# **4. Data Acquisition & Description**
+---
+<a name = Section5></a>
+# **Preparing the dataset**
+- After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
+
+Here are the data I want to keep:
+
+|Id|Feature|Description|
+|:--|:--|:--|
+|01| userid                 | A numeric value uniquely identifying the user.|
+|02| age                    | Age of the user in years.|
+|03| gender                 | Gender of the user.| 
+|04| tenure                 | Number of days since the user has been on FB.|
+|05| friend_count           | Number of friends the user has.|
+|06| friendships_initiated  | Number of friendships initiated by the user.|
+|07| likes                  | Total number of posts liked by the user.|
+|08| likes_received         | Total Number of likes received by user's posts.|
+|09| mobile_likes           | Number of posts liked by the user through mobile app.|
+|10| mobile_likes_received  | Number of likes received by user through mobile app.|
+|11| www_likes              | Number of posts liked by the user through web.|
+|12| www_likes_received     | Number of likes received by user  through web.| 
+| 13  | age_group  | Derived from age column for analysis  |

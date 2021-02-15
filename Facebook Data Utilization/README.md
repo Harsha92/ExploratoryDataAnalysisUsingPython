@@ -11,7 +11,6 @@
 5. [**Data Acquisition & Description**](#Section5)<br>
 6. [**Trends in Data**](#Section6)
 7. [**Key Insights**](#Section7)<br>
-8. [**What I have learned?**](#Section8)<br>
 
 ---
 [![Facebook](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")

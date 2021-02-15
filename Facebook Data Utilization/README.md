@@ -1,7 +1,6 @@
 ---
 # **Table of Contents**
 
-
 1. [**Introduction**](#Section1)<br>
  * 1.1 [**Reception**](#Section1.1)<br>
  * 1.2 [**Impact**](#Section1.2)<br>

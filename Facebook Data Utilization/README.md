@@ -52,7 +52,7 @@ Facebook has become quite popular in the recent few years with people all over t
 ---
 <a name = Section3></a>
 # **Python libraries**
-To do Data Science with Python, I use Python with the following software libraries:
+As part of this project, I have used Python with the following libraries:
 - **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
 - **Matplotlib:** it allows to trace and visualize data in the form of graphs.
 - **Pandas:** it allows to manipulate and analyze data (dataframes).

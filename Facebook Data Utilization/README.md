@@ -48,3 +48,24 @@ Facebook provides a development platform for many social gaming, communication, 
 Facebook has become quite popular in the recent few years with people all over the world using it as a medium to share their status,thoughts and pictures with their friends. With the mobile app , it has become even more popular and easier to access. People from all age groups are connected to facebook, however there are certain differences in their way of using it such as with respect to initiating friendships and sending likes . We are trying to study the dataset provided to identify certain patterns with respect to how the users are making use of this most popular social networking app depending on their age group,gender etc.
 
 ---
+<a name = Section3></a>
+# **Python libraries**
+
+
+To do Data Science with Python, I use Python with the following software libraries:
+- **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
+- **Matplotlib:** it allows to trace and visualize data in the form of graphs.
+- **Pandas:** it allows to manipulate and analyze data (dataframes).
+- **Seaborn:** it complements Matplotlib by providing attractive statistical graphics.
+
+---
+<a name = Section4></a>
+# **Solution Approach** 
+
+
+The problem was divided into several steps:
+1. **Data Collection:** Data was collected in a csv file and here is the  [facebook data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/facebook_data.csv") which we used for analysis.
+2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
+3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
+
+---

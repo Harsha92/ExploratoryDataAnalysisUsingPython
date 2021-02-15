@@ -97,3 +97,17 @@ Here are the data I want to keep:
 - [Top 10 friend count and friendship initiated as per age and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/Top%2010%20Friends%20and%20initiated%20age%20and%20gender.png "Top 10 friend count and friendship initiated as per age and gender")
 - [Top 10 total likes sent and received as per age and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/top%2010%20likes%20age%20and%20gender.png "Top 10 total likes sent and received as per age and gender")
 - [Top 10 likes sent and received as per age group and gender](https://raw.githubusercontent.com/Harsha92/ExploratoryDataAnalysisUsingPython/main/Facebook%20Data%20Utilization/images/Vissualizations/top%2010%20likes%20age%20group.png "Top 10 likes sent and received as per age group and gender")
+
+---
+<a name = Section7></a>
+# **Key Insights**
+- Female users has more friends when compared to male users
+- Male users has initated more friend requests compared to female users
+- Female users has sent 50% more likes compared to male users which shows that female users are more active in responding to a post
+- 71% of the overall likes sent from website are from female users
+- Female users has received 72% of the overall likes from both mobile app and website
+- 18 years female users has highest number of friends followed by 19 years female users.
+- 18 years male users has initiated more friend requests followed by 19 years male users.
+- Teenagers are more active interms of initiating and accepting friend requests.
+
+

@@ -10,7 +10,7 @@
 2. [**Problem Statement**](#Section2)<br>
 3. [**Python libraries**](#Section3)<br>
 4. [**Solution Approach**](#Section4)<br>
-5. [**Preparing the dataset**](#Section5)<br>
+5. [**Data Acquisition & Description**](#Section5)<br>
 
 
 [![Facebook](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")
@@ -43,8 +43,6 @@ Facebook began to reduce its carbon impact after Greenpeace attacked it for its 
 
 Facebook provides a development platform for many social gaming, communication, feedback, review, and other applications related to online activities. This platform spawned many businesses and added thousands of jobs to the global economy. [Zynga Inc.,](https://en.wikipedia.org/wiki/Zynga "Zynga Inc.,") a leader in social gaming, is an example of such a business. An econometric analysis found that Facebook's app development platform added more than 182,000 jobs in the U.S. economy in 2011. The total economic value of the added employment was about $12 billion.
 
-
-
 ---
 <a name = Section2></a>
 # **Problem Statement**
@@ -53,8 +51,6 @@ Facebook has become quite popular in the recent few years with people all over t
 ---
 <a name = Section3></a>
 # **Python libraries**
-
-
 To do Data Science with Python, I use Python with the following software libraries:
 - **Numpy:** it contains many functions for numerical computation (vectors, matrices, polynomials, etc.).
 - **Matplotlib:** it allows to trace and visualize data in the form of graphs.
@@ -64,23 +60,14 @@ To do Data Science with Python, I use Python with the following software librari
 ---
 <a name = Section4></a>
 # **Solution Approach** 
-
-
 The problem was divided into several steps:
 1. **Data Collection:** Data was collected in a csv file and here is the  [facebook data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/facebook_data.csv "facebook data") which we used for analysis.
 2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
 3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
 
 ---
-
-|Id   |Feature   | Description  |
-| ------------ | ------------ | ------------ |
----
-<a name = Section4></a>
-# **4. Data Acquisition & Description**
----
 <a name = Section5></a>
-# **Preparing the dataset**
+# **4. Data Acquisition & Description**
 - After having the data available and understanding the meaning of each data items, I started the data selection phase, that is, the data I want to keep for my Data Science study.
 
 Here are the data I want to keep:

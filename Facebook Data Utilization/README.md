@@ -8,6 +8,8 @@
    + 1.2.1 [**Scope**](#Section1.2.1)<br>
    + 1.2.2 [**Economy**](#Section1.2.2)<br>
 2. [**Problem Statement**](#Section2)<br>
+3. [**Python libraries**](#Section3)<br>
+4. [**Solution Approach**](#Section4)<br>
 
 
 [![Facebook](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")](https://img.etimg.com/thumb/msid-75184637,width-650,imgsize-432571,,resizemode-4,quality-100/facebook-ap.jpg "Facebook")
@@ -64,7 +66,7 @@ To do Data Science with Python, I use Python with the following software librari
 
 
 The problem was divided into several steps:
-1. **Data Collection:** Data was collected in a csv file and here is the  [facebook data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/facebook_data.csv") which we used for analysis.
+1. **Data Collection:** Data was collected in a csv file and here is the  [facebook data](https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Projects/facebook_data") which we used for analysis.
 2. **Data Wrangling:** The datasets were uploaded to a dataframe and explored. Null values were filled in wherever appropriate and polluted values were discarded or wrangled.
 3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the data. 
 

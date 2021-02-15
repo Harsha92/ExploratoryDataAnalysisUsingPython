@@ -15,7 +15,7 @@
 ---
 <a name = Section1></a>
 # **Introduction**
-Facebook is an online social media and social networking service based in Menlo Park, California. It was founded by [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg"), along with fellow Harvard College students and roommates [Eduardo Luiz Saverin](https://en.wikipedia.org/wiki/Eduardo_Saverin "Eduardo Luiz Saverin"), [Andrew McCollum](https://en.wikipedia.org/wiki/Andrew_McCollum "Andrew McCollum"), [Dustin Moskovitz](https://en.wikipedia.org/wiki/Dustin_Moskovitz "Dustin Moskovitz"), and [Chris Hughes](https://en.wikipedia.org/wiki/Chris_Hughes "Chris Hughes").
+The world's most popular social networking web site, Facebook enables users to connect with friends and family by sharing status updates, personal photos and other items of interest. Founder [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg"), along with fellow Harvard College students [Eduardo Luiz Saverin](https://en.wikipedia.org/wiki/Eduardo_Saverin "Eduardo Luiz Saverin"), [Andrew McCollum](https://en.wikipedia.org/wiki/Andrew_McCollum "Andrew McCollum"), [Dustin Moskovitz](https://en.wikipedia.org/wiki/Dustin_Moskovitz "Dustin Moskovitz"), and [Chris Hughes](https://en.wikipedia.org/wiki/Chris_Hughes "Chris Hughes") created Facebook in 2004 as a means for other university students to communicate and to socialize online. The idea quickly spread from there and has become a global phenomenon, with more than 160 million users in the United States alone. 
 
 
 <a name = Section1.1></a>

@@ -12,7 +12,7 @@
 ---
 <a name = Section1></a>
 # **Introduction**
-Facebook is an American online social media and social networking service based in Menlo Park, California. It was founded by [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg"), along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.
+Facebook is an online social media and social networking service based in Menlo Park, California. It was founded by [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg"), along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.
 
 <a name = Section1.1></a>
 ## **Reception**

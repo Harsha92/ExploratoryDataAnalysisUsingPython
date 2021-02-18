@@ -1,4 +1,8 @@
 
+[![Financial Statement Analysis](https://seofiles.s3.amazonaws.com/seo/media/cache/d7/98/d7986879885f791ec409c90fd871d664.jpg "Financial Statement Analysis")](https://seofiles.s3.amazonaws.com/seo/media/cache/d7/98/d7986879885f791ec409c90fd871d664.jpg "Financial Statement Analysis")
+
+---
+
 # **Problem Statement**
 
 As part of this project we are considering two lists of monthly revenue and monthly expenditure to calculate the profit or loss for the given financial year for a company.  Below are the tasks that are performed on the data
